@@ -16,3 +16,5 @@ I like dogs lol.
 commit 2
 
 yet another commit (3)
+
+Thanks for the help with Zsh and Bash! you da man!
