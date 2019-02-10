@@ -6,4 +6,9 @@ Brian is here.
 Mitch 2
 
 Mitch is adding content to his feature branch
+
 commit 2
+
+here is some extra content that wasn't here before
+
+I like dogs lol.
